@@ -1,4 +1,4 @@
-name = "xn--qwt2ur88h"
+name = 'xn-qwt2ur88h'
 main = "_worker.js"
 compatibility_date = "2025-07-12"
 # node_compat = true

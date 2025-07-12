@@ -1,11 +1,11 @@
-name = "cf-worker-ws-dev"
+name = "xn--qwt2ur88h"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2025-07-12"
 # node_compat = true
 workers_dev = true
 
 [vars]
-# PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+PROXYIP = "www.4chan.org, www.whoer.net, www.digitalocean.com, www.visa.com, toy-people.com, 70.34.252.171:2053, 45.144.48.33:2053, 80.211.249.240:2053, 104.234.50.225:2053, 142.171.137.37:8443"
+UUID = "fe59e5ef-e124-4ec8-af9e-0e183717bceb"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
